@@ -1,1 +1,1 @@
-This is not empty
+# This is a README for a class project
